@@ -1,6 +1,6 @@
 ## What is this?
 
-Just you wait folks!
+This is a project built in an awesome node course! https://learnnode.com/
 
 ## Sample Data
 
