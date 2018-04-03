@@ -2,6 +2,8 @@
 
 This is a project built in an awesome node course! https://learnnode.com/
 
+Still in progress, but here is a demo of what I'm building - https://node-delicious.herokuapp.com/
+
 ## Sample Data
 
 To load sample data, run the following command in your terminal:
